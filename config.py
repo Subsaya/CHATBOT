@@ -11,14 +11,13 @@ API_ID = int(getenv("API_ID", "6435225"))
 API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "7179767505:AAHHsy7irLrTtywsb8ADDpb7-UoqF2mcRUI")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "6841719366"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
-
+MONGO_URL = getenv("MONGO_URL","mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority")
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
 
@@ -26,10 +25,10 @@ SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_EDITX")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@AJJU_SHA69")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", None)
+BOT_USERNAME = getenv("BOT_USERNAME", "Test_grp_bot")
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
